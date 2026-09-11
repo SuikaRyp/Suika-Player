@@ -155,18 +155,6 @@ fun ResumeScreen(
         allSongs.sortedByDescending { it.dateAdded }.take(10)
     }
 
-    // Online library (SuikaRyp database): only relevant while Wi-Fi/mobile data
-    // is active. When offline, this list stays empty and the section below is
-    // hidden entirely, leaving only the local, storage-based sections.
-    val isOnline = viewModel.isOnline
-    val onlineSongs = viewModel.onlineSongs
-
-    LaunchedEffect(isOnline) {
-        if (isOnline) {
-            viewModel.loadOnlineSongs()
-        }
-    }
-
     val favoriteCount = remember(allSongs) {
         allSongs.count { it.isFavorite }
     }
@@ -210,19 +198,6 @@ fun ResumeScreen(
                 onContinueListening = onExpandPlayer,
                 onPlayToggle = onPlayToggle
             )
-        }
-
-        if (isOnline && onlineSongs.isNotEmpty()) {
-            AnimatedVisibility(
-                visible = true,
-                enter = fadeIn() + slideInVertically { it / 2 }
-            ) {
-                RecommendationSection(
-                    title = stringResource(R.string.resume_online_songs),
-                    songs = onlineSongs,
-                    onSongClick = { song -> onSongClick(song, onlineSongs) }
-                )
-            }
         }
 
         if (recommendations.isNotEmpty()) {

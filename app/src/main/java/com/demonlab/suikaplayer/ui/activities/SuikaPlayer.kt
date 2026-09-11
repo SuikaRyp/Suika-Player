@@ -318,31 +318,10 @@ class SuikaPlayer : AppCompatActivity() {
                 }
             }
 
-            // Permissions logic lifted
-            val essentialPermissions = remember {
-                val list = mutableListOf<String>()
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-                    list.add(Manifest.permission.READ_MEDIA_AUDIO)
-                } else {
-                    list.add(Manifest.permission.READ_EXTERNAL_STORAGE)
-                }
-                list
-            }
-
-            var hasPermission by remember {
-                mutableStateOf(essentialPermissions.all { 
-                    ContextCompat.checkSelfPermission(context, it) == PackageManager.PERMISSION_GRANTED 
-                })
-            }
-
-            val launcher = rememberLauncherForActivityResult(
-                contract = ActivityResultContracts.RequestMultiplePermissions()
-            ) { permissions ->
-                val granted = essentialPermissions.all { permissions[it] == true }
-                hasPermission = granted
-                if (granted) musicViewModel.loadSongs()
-                else Toast.makeText(context, context.getString(R.string.permission_required), Toast.LENGTH_SHORT).show()
-            }
+            // Storage permission is no longer needed: the song library now
+            // comes entirely from the bundled online catalog, not local
+            // device storage, so there is nothing left to scan/read.
+            var hasPermission by remember { mutableStateOf(true) }
 
             val recordAudioLauncher = rememberLauncherForActivityResult(
                 ActivityResultContracts.RequestPermission()
@@ -352,12 +331,8 @@ class SuikaPlayer : AppCompatActivity() {
                 }
             }
 
-            LaunchedEffect(hasPermission) {
-                if (hasPermission) {
-                    musicViewModel.loadSongs()
-                } else {
-                    launcher.launch(essentialPermissions.toTypedArray())
-                }
+            LaunchedEffect(Unit) {
+                musicViewModel.loadSongs()
             }
 
             val lifecycleOwner = LocalLifecycleOwner.current

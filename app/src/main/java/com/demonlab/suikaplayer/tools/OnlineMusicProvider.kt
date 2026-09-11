@@ -29,8 +29,10 @@ class OnlineMusicProvider(private val context: Context) {
 
     private var cachedSongs: List<Song>? = null
 
-    suspend fun getOnlineSongs(): List<Song> = withContext(Dispatchers.IO) {
-        cachedSongs?.let { return@withContext it }
+    suspend fun getOnlineSongs(forceReload: Boolean = false): List<Song> = withContext(Dispatchers.IO) {
+        if (!forceReload) {
+            cachedSongs?.let { return@withContext it }
+        }
 
         val songs = try {
             val json = context.assets.open(ASSET_NAME).bufferedReader().use { it.readText() }
@@ -63,7 +65,7 @@ class OnlineMusicProvider(private val context: Context) {
                     duration = parseDurationToMillis(obj.optString("duration", "0:00")),
                     uri = src.toUri(),
                     path = src,
-                    dateAdded = 0L,
+                    dateAdded = rawId,
                     albumArtUri = null,
                     genre = obj.optString("category").takeIf { it.isNotBlank() },
                     folderName = "Online",

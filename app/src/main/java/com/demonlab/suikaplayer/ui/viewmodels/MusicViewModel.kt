@@ -1,55 +1,32 @@
 package com.demonlab.suikaplayer.ui.viewmodels
 
 import android.app.Application
-import android.database.ContentObserver
-import android.net.Uri
-import android.os.Handler
-import android.os.Looper
-import android.provider.MediaStore
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.demonlab.suikaplayer.tools.MusicProvider
 import com.demonlab.suikaplayer.tools.Song
 import com.demonlab.suikaplayer.tools.SettingsManager
 import com.demonlab.suikaplayer.tools.MetadataManager
 import com.demonlab.suikaplayer.tools.OnlineMusicProvider
-import com.demonlab.suikaplayer.tools.NetworkStatusProvider
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.Job
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import kotlinx.coroutines.flow.collect
 
 class MusicViewModel(application: Application) : AndroidViewModel(application) {
-    private val musicProvider = MusicProvider(application)
     private val metadataManager = MetadataManager(application)
     private val onlineMusicProvider = OnlineMusicProvider(application)
-    private val networkStatusProvider = NetworkStatusProvider.getInstance(application)
 
+    // The song library now comes entirely from the bundled online catalog
+    // (assets/online_songs.json). It is shown the same way whether the
+    // device is online or offline - local device storage is never scanned.
+    // Actually streaming a song still requires an internet connection, but
+    // the library list itself is always available since it ships inside
+    // the app.
     var allSongs by mutableStateOf<List<Song>>(emptyList())
         private set
-
-    // Online library (SuikaRyp database), shown on the home screen only while
-    // Wi-Fi/mobile data is active. Falls back to nothing when offline, at
-    // which point the UI relies purely on [allSongs] from local storage.
-    var onlineSongs by mutableStateOf<List<Song>>(emptyList())
-        private set
-
-    val isOnline: Boolean
-        get() = networkStatusProvider.isOnline
-
-    fun loadOnlineSongs() {
-        if (!networkStatusProvider.isOnline) return
-        if (onlineSongs.isNotEmpty()) return
-        viewModelScope.launch {
-            val songs = onlineMusicProvider.getOnlineSongs()
-            onlineSongs = songs
-        }
-    }
 
     val visuallyDeletedIds = androidx.compose.runtime.mutableStateListOf<Long>()
 
@@ -60,17 +37,12 @@ class MusicViewModel(application: Application) : AndroidViewModel(application) {
         private set
 
     fun loadSongs() {
+        if (allSongs.isNotEmpty()) return
         viewModelScope.launch {
-            val cached = withContext(Dispatchers.IO) {
-                musicProvider.getCachedSongs()
+            isLoading = true
+            allSongs = withContext(Dispatchers.IO) {
+                onlineMusicProvider.getOnlineSongs()
             }
-            if (cached.isNotEmpty() && allSongs.isEmpty()) {
-                allSongs = cached
-            } else if (allSongs.isEmpty()) {
-                isLoading = true
-            }
-            
-            syncSongsInternal()
             isLoading = false
         }
     }
@@ -78,44 +50,13 @@ class MusicViewModel(application: Application) : AndroidViewModel(application) {
     fun refreshLibrary() {
         viewModelScope.launch {
             isLoading = true
-            val refreshed = musicProvider.refreshLibrary()
+            val refreshed = withContext(Dispatchers.IO) {
+                onlineMusicProvider.getOnlineSongs(forceReload = true)
+            }
             if (refreshed.isNotEmpty()) {
                 allSongs = refreshed
             }
             isLoading = false
-        }
-    }
-
-    private suspend fun syncSongsInternal() {
-        val synced = musicProvider.syncSongs()
-        
-        if (synced.isNotEmpty()) {
-            val settingsManager = SettingsManager.getInstance(getApplication())
-            if (settingsManager.isInitialFolderScanPending) {
-                if (!settingsManager.showAllFoldersOnStart) {
-                    val uriStr = settingsManager.musicFolderUri
-                    if (uriStr != null) {
-                        val uri = android.net.Uri.parse(uriStr)
-                        val targetFolder = uri.lastPathSegment?.substringAfterLast("/")?.substringAfterLast(":")
-                        if (targetFolder != null) {
-                            val allFolderNames = synced.map { it.folderName }.toSet()
-                            val foldersToHide = allFolderNames.filter { it != targetFolder }.toSet()
-                            settingsManager.hiddenFolders = foldersToHide
-                        }
-                    }
-                }
-                settingsManager.isInitialFolderScanPending = false
-            }
-            
-            if (synced != allSongs) {
-                allSongs = synced
-            }
-        } else {
-            // If sync returned empty but we already had songs, don't clear the list.
-            // This prevents the "no songs" bug when permissions or MediaStore fail temporarily.
-            if (allSongs.isEmpty()) {
-                allSongs = emptyList()
-            }
         }
     }
 
@@ -428,45 +369,14 @@ class MusicViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
-    private var mediaStoreObserver: ContentObserver? = null
-    private var debounceJob: Job? = null
-
-    private fun registerMediaStoreObserver() {
-        val context = getApplication<Application>()
-        val handler = Handler(Looper.getMainLooper())
-        val observer = object : ContentObserver(handler) {
-            override fun onChange(selfChange: Boolean) {
-                onChange(selfChange, null)
-            }
-            override fun onChange(selfChange: Boolean, uri: Uri?) {
-                debounceJob?.cancel()
-                debounceJob = viewModelScope.launch {
-                    delay(2000)
-                    syncSongsInternal()
-                }
-            }
-        }
-        context.contentResolver.registerContentObserver(
-            MediaStore.Audio.Media.EXTERNAL_CONTENT_URI,
-            true,
-            observer
-        )
-        mediaStoreObserver = observer
-    }
-
     init {
-        registerMediaStoreObserver()
         loadSongs()
         loadPlaylists()
         observeStats()
-        loadOnlineSongs()
     }
 
     override fun onCleared() {
         super.onCleared()
-        mediaStoreObserver?.let {
-            getApplication<Application>().contentResolver.unregisterContentObserver(it)
-        }
     }
 }
 
