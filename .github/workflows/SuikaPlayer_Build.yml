@@ -27,11 +27,25 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
+
+      # Uses the repo's real signing key if it has been configured under
+      # Settings > Secrets and variables > Actions (KEYSTORE_BASE64,
+      # STORE_PASSWORD, KEY_ALIAS, KEY_PASSWORD). If those secrets are not
+      # set, a throwaway keystore is generated on the fly so the release
+      # APK still comes out signed and installable - just note that an
+      # auto-generated key is NOT stable across runs, so you can't use it
+      # to upgrade an already-installed APK. Add the secrets once you have
+      # a real keystore you want to keep using build after build.
+      # IMPORTANT: app/build.gradle.kts resolves `storeFile` relative to the
+      # *app module* directory (not the repo root), because it's set inside
+      # app/build.gradle.kts via the module-scoped `file(...)` call. So the
+      # actual .jks must live under app/, even though keystore.properties
+      # itself stays at the repo root (read via rootProject.file(...)).
       - name: Prepare signing keystore
         run: |
           if [ -n "${{ secrets.KEYSTORE_BASE64 }}" ]; then
             echo "Using keystore from repository secrets."
-            echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > keystore.jks
+            echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > app/keystore.jks
             cat <<EOF > keystore.properties
           storeFile=keystore.jks
           storePassword=${{ secrets.STORE_PASSWORD }}
@@ -41,7 +55,7 @@ jobs:
           else
             echo "::warning::No KEYSTORE_BASE64 secret found - generating a throwaway signing key for this build only."
             keytool -genkeypair -v \
-              -keystore keystore.jks \
+              -keystore app/keystore.jks \
               -alias suikaplayer \
               -keyalg RSA -keysize 2048 -validity 10000 \
               -storepass suikaplayer123 -keypass suikaplayer123 \
