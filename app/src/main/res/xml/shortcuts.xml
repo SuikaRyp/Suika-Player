@@ -1,0 +1,13 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="playlists"
+        android:enabled="true"
+        android:icon="@drawable/ic_playlist"
+        android:shortcutShortLabel="@string/shortcut_playlists">
+        <intent
+            android:action="com.demonlab.suikaplayer.ACTION_VIEW_PLAYLISTS"
+            android:targetPackage="com.demonlab.suikaplayer"
+            android:targetClass="com.demonlab.suikaplayer.ui.activities.SuikaPlayer" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

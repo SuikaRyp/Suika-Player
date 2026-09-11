@@ -1,0 +1,3317 @@
+[
+  {
+    "id": 1,
+    "title": "Pyphone Marone",
+    "artist": "Wiz Khalifa",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964826794_Maroon_5_Payphone_ft_Wiz_Khalifa_Explicit_Official_Music_V.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964825961_image_1767964825961.jpg",
+    "duration": "4:39",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Memori terindah bersamamu\nTakkan pernah kulupakan\nSetiap detik setiap waktu\nKau selalu di hatiku\n\nReff:\nCinta kita takkan pernah pudar\nMeski waktu terus berjalan\nKau dan aku selamanya\nDalam cerita cinta kita"
+  },
+  {
+    "id": 2,
+    "title": "Serana",
+    "artist": "For Revange",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964874972_For_Revenge_-_Serana__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964873546_image_1767964873546.jpg",
+    "duration": "4:11",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Dulu kau bilang cinta abadi\nKini semua hanya kenangan\nAir mata mengalir sendiri\nMengingat semua janji manismu"
+  },
+  {
+    "id": 3,
+    "title": "Seperti Bintang",
+    "artist": "Ungu",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964761629_Seperti_Bintang_-_Ungu.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964760668_image_1767964760668.jpg",
+    "duration": "3:14",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Kau bagaikan bintang di malam hari\nMenerangi jalan hidupku\nDenganmu semua terasa berarti\nTanpamu dunia terasa hampa"
+  },
+  {
+    "id": 4,
+    "title": "Karna Kamu",
+    "artist": "Geisha",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964714765_aGSggATnKp0.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964713810_image_1767964713810.jpg",
+    "duration": "3:55",
+    "category": "sad",
+    "popular": false,
+    "lyrics": "Karena kamu aku bisa bertahan\nKarena kamu aku tetap berdiri\nMeski badai menghantam kehidupan\nKau selalu ada untukku"
+  },
+  {
+    "id": 5,
+    "title": "Dj Mojang Priangan",
+    "artist": "Nining Meida",
+    "album": "Lagu Dj Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964650391_killua_1762225827726_765k0k2z4p5.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964649722_image_1767964649722.jpg",
+    "duration": "4:20",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Mojang priangan cantik jelita\nSenandung cinta di udara\nMenari di bawah sinar rembulan\nMembawa cerita indah bersama"
+  },
+  {
+    "id": 6,
+    "title": "Kasih Aba Aba",
+    "artist": "Tenxi",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964577425_Naykilla__Tenxi___Jemsii_-_Kasih_Aba-Aba__8D_AUDIO_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964537376_image_1767964537376.jpg",
+    "duration": "2:58",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Kasih aba-aba cintamu padaku\nMembuat hati ini berdebar kencang\nSetiap langkah setiap kata\nPenuh makna dalam hidupku"
+  },
+  {
+    "id": 7,
+    "title": "Bersamamu",
+    "artist": "Viera",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964425937_Vierra_-_Bersamamu__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964424986_image_1767964424986.jpg",
+    "duration": "3:48",
+    "category": "sad",
+    "popular": true,
+    "lyrics": "Bersamamu waktu terasa cepat\nBersamamu semua masalah hilang\nDalam pelukan hangatmu\nAku menemukan kedamaian"
+  },
+  {
+    "id": 8,
+    "title": "Monitor Ketua",
+    "artist": "THENDO CHASTILO",
+    "album": "Lagu Dj",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770344467776_JEDAG_JEDUG_SOUND_Topic_Tor_Monitor_Ketua_DJ_Kopra_Fvnky.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964418474_image_1767964418474.jpg",
+    "duration": "4:40",
+    "category": "hiphop",
+    "popular": true,
+    "lyrics": "Monitor kehidupan terus berjalan\nKetua hati mengatur segalanya\nDalam alunan musik hiphop\nKita ungkapkan semua isi hati"
+  },
+  {
+    "id": 9,
+    "title": "Battle Cry",
+    "artist": "Jim Yosuf",
+    "album": "Lagu Dj Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964362415_Jim_Yosef_-_BATTLECRY__Heart_of_Courage_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964361787_image_1767964361787.jpg",
+    "duration": "2:31",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Ini adalah teriakan perangku\nUntuk melawan semua rintangan\nDengan semangat dan tekad\nAku akan terus maju"
+  },
+  {
+    "id": 10,
+    "title": "Luka Negara",
+    "artist": "Fujita Haruka",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964298435_0g3xcm.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964296558_image_1767964296558.jpg",
+    "duration": "4:23",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Luka negara takkan pernah sembuh\nJika kita tak belajar dari sejarah\nDalam setiap tetes air mata\nTerdapat pelajaran berharga"
+  },
+  {
+    "id": 11,
+    "title": "Terbang Bersamaku",
+    "artist": "Kangen Band",
+    "album": "Kangen Band",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964226050_Terbang_Bersamaku_-_Kangen_Band__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964224270_image_1767964224270.jpg",
+    "duration": "3:54",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Terbang bersamaku ke angkasa\nRaih mimpi yang selama ini kau impikan\nDalam pelukan angin malam\nKita menari di antara bintang"
+  },
+  {
+    "id": 12,
+    "title": "Jakarta Hari Ini",
+    "artist": "For Revange",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964171599_For_Revenge_X_Stereo_Wall_Jakarta_Hari_Ini_Official_Video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964170491_image_1767964170491.jpg",
+    "duration": "3:35",
+    "category": "sad",
+    "popular": false,
+    "lyrics": "Jakarta hari ini sunyi senyap\nTanpa hiruk pikuk seperti biasa\nDi tengah kesendirian ini\nAku merindukan kehadiranmu"
+  },
+  {
+    "id": 13,
+    "title": "Duka",
+    "artist": "Last Child",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767964110075_Last_Child_-_Duka__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767964109009_image_1767964109009.jpg",
+    "duration": "5:21",
+    "category": "sad",
+    "popular": true,
+    "lyrics": "Duka yang mendalam\nMenyelimuti hati ini\nSetiap kenangan bersamamu\nMenjadi pedih yang tak tertahankan"
+  },
+  {
+    "id": 14,
+    "title": "Bubrah",
+    "artist": "Niken",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965261884_Northsle_feat._Agiff_-_Bubrah__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965261247_image_1767965261247.jpg",
+    "duration": "4:19",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Bubrah hatiku saat kau pergi\nTinggalkan semua kenangan indah\nPecahan cinta berserakan\nTak bisa disatukan lagi"
+  },
+  {
+    "id": 15,
+    "title": "Pelanggaran",
+    "artist": "Denny Caknan",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965282996_DENNY_CAKNAN_-_PELANGGARAN__OFFICIAL_LIVE_MUSIC_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965260712_image_1767965260712.jpg",
+    "duration": "5:24",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Pelanggaran cinta yang kita lakukan\nMembawa kita pada penderitaan\nJanji setia yang terabaikan\nHanya menyisakan luka"
+  },
+  {
+    "id": 16,
+    "title": "Tresno Liyane",
+    "artist": "Northsle",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965219469_Tresno_liyane_NorthSle_Lirik_lagupengarepku_kowe_oleh_pengga.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965218947_image_1767965218947.jpg",
+    "duration": "4:39",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Tresno liyane sing tak rasakno\nNanging kowe malah ninggalno\nAti iki remuk redam\nAmargo tresno sing tak jaluk"
+  },
+  {
+    "id": 17,
+    "title": "Korban Janji",
+    "artist": "Guyon Weton",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965153441_GuyonWaton_Official_-_Korban_Janji__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965152229_image_1767965152229.jpg",
+    "duration": "3:35",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Aku korban janji manismu\nYang tak pernah kau tepati\nAir mata mengalir deras\nMengingat semua kebohonganmu"
+  },
+  {
+    "id": 18,
+    "title": "Kembali Bertahan",
+    "artist": "Ungu",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965377984_Ungu_-__Kembali_Bertahan__OST_Satria_Garuda_Bima_X.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965376891_image_1767965376891.jpg",
+    "duration": "4:15",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Aku harus kembali bertahan\nMeski hati ini terluka\nDemi masa depan yang lebih baik\nAku akan bangkit lagi"
+  },
+  {
+    "id": 19,
+    "title": "Kisah Cinta Untuk Starla",
+    "artist": "Virgun",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965455407_FocFked1TbQ.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965440419_image_1767965440419.jpg",
+    "duration": "4:33",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Kisah cinta untuk Starla\nYang selalu ada di hati\nDalam setiap helaan nafas\nKau selalu kuingat"
+  },
+  {
+    "id": 20,
+    "title": "Be The One",
+    "artist": "Tetsuya Dan Asakura",
+    "album": "Lagu Kamenrider",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965492439_Be_The_One.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965491593_image_1767965491593.jpg",
+    "duration": "3:58",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Be the one for me\nYou're everything I need\nIn this crazy world\nYou're my peace of mind"
+  },
+  {
+    "id": 21,
+    "title": "Kelingan Mantan",
+    "artist": "N.D.X AKA",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965080214_EMOST_ART_-_NDX_A_K_A_Kelingan_Mantan.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767965078851_image_1767965078851.jpg",
+    "duration": "4:45",
+    "category": "sad",
+    "popular": true,
+    "lyrics": "Kelingan mantan sing wis lungo\nNanging ati isih kelingan\nKenangan indah wektu biyen\nDadi pedhanging ati saiki"
+  },
+  {
+    "id": 22,
+    "title": "Sency",
+    "artist": "Tenxi",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767965833026_dia_-_SENCY_ft._TENXI__Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779513221637_image_1779513221637.jpg",
+    "duration": "2:33",
+    "category": "pop",
+    "popular": false,
+    "lyrics": "Sency feelings in my heart\nWhen I think about you\nEvery moment every day\nI just want to be with you"
+  },
+  {
+    "id": 23,
+    "title": "Despacito",
+    "artist": "Louis Fonsi",
+    "album": "Lagu Penyemangat",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767961816203_Luis_Fonsi_-_Despacito_ft._Daddy_Yankee.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767961831544_image_1767961831544.jpg",
+    "duration": "4:42",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Despacito\nQuiero respirar tu cuello despacito\nDeja que te diga cosas al oído\nPara que te acuerdes si no estás conmigo"
+  },
+  {
+    "id": 24,
+    "title": "est c que tu meimes",
+    "artist": "Gims",
+    "album": "Is",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963395844_Ma_tre_Gims_-_Est-ce_que_tu_m_aimes____Clip_officiel_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963395167_image_1767963395167.jpg",
+    "duration": "4:02",
+    "category": "sad",
+    "popular": false,
+    "lyrics": "Say something, I'm giving up on you\nI'll be the one, if you want me to\nAnywhere, I would've followed you\nSay something, I'm giving up on you"
+  },
+  {
+    "id": 25,
+    "title": "Bintang Lima",
+    "artist": "Tenxi",
+    "album": "Lagu Dj Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963462551_Tenxi___Jemsii_-_Bintang_5__Official_Music_Video_Lyric_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963461784_image_1767963461784.jpg",
+    "duration": "4:04",
+    "category": "pop",
+    "popular": true,
+    "lyrics": "Bintang lima di langit malam\nMenerangi jalan hidupku\nKau bagaikan bintang itu\nSelalu bersinar dalam hidupku"
+  },
+  {
+    "id": 26,
+    "title": "Doa (Eiyu)",
+    "artist": "Kairen",
+    "album": "Lagu Ultraman Nexus",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963512796_ADFX0225_-_Ultraman_Nexus_opening__Doa-Eiyuu_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963512350_image_1767963512350.jpg",
+    "duration": "3:22",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 27,
+    "title": "Aoi Kajitsu",
+    "artist": "Shini Chiri Ohta",
+    "album": "Lagu Ultraman Nexus",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963556395_Ultra_Lyrics_Aoi_Kajitsu_Ultraman_Nexus_Junis_Blue_Opening_L.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963555296_image_1767963555296.jpg",
+    "duration": "3:30",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 28,
+    "title": "Orb Ni Nori",
+    "artist": "Ultra Lyric",
+    "album": "Lagu Ultraman",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963646799_Ultra_Lyrics_-_Orb_No_Inori__Ultraman_Orb_Opening__Lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963618506_image_1767963618506.jpg",
+    "duration": "5:19",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 29,
+    "title": "Susume (Ultra Zero)",
+    "artist": "Ultra Lyric",
+    "album": "I Do Not Want What I Haven't Got",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963772165_Ultraman_Zero_Opening_FULL_Susume__Ultraman_Zero_by_Voyager.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963771211_image_1767963771211.jpg",
+    "duration": "4:30",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 30,
+    "title": "Take Me Higher",
+    "artist": "Ultra Lyric",
+    "album": "Lagu Ultraman",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768009331189_RedPowerV_1962_House_of_Randomness_Ultraman_Tiga_Theme_Song_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768009263968_image_1768009263968.jpg",
+    "duration": "5:09",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 31,
+    "title": "Unite (Ending Ultraman X)",
+    "artist": "Ultra Lyric",
+    "album": "Lagu Ultraman",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963983413___MAD___Ultraman_X_The_Movie_-_Unite______.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963982564_image_1767963982564.jpg",
+    "duration": "3:51",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 32,
+    "title": "Multo",
+    "artist": "Cup Of Joe",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767966522635_Multo__Live_at_The_Cozy_Cove__-_Cup_of_Joe.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767966679328_image_1767966679328.jpg",
+    "duration": "4:05",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 33,
+    "title": "Beggin",
+    "artist": "Madcon",
+    "album": "Lagu Dj Lagu Inggris",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767961557980_Testo_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767961740859_image_1767961740859.jpg",
+    "duration": "3:31",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 34,
+    "title": "Masih Disini",
+    "artist": "Monsta",
+    "album": "Lagu Penyemangat Lagu",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767963903363_Bunkface_-_Masih_Di_Sini__BoBoiBoy_The_Movie_OST_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767963902275_image_1767963902275.jpg",
+    "duration": "4:14",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 35,
+    "title": "She Will Be Loved",
+    "artist": "Marone 5",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768305914734_Maroon_5_-_She_Will_Be_Loved__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768305962986_image_1768305962986.jpg",
+    "duration": "3:58",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 36,
+    "title": "Scott Street",
+    "artist": "Phoebe Bridgers",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767967673363_Phoebe_Bridgers_-_Scott_Street__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767967659071_image_1767967659071.jpg",
+    "duration": "5:05",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 37,
+    "title": "The Night We Met",
+    "artist": "Lord Huron",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767967768575_Lord_Huron_-_The_Night_We_Met__Official_Audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767967753821_image_1767967753821.jpg",
+    "duration": "3:28",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 38,
+    "title": "lost myself 4 u",
+    "artist": "Thomas Day",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767967807599_Thomas_Day_-_lost_myself_4_u__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767967833458_image_1767967833458.jpg",
+    "duration": "3:53",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 39,
+    "title": "About You",
+    "artist": "The 1975",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767967938755_The_1975_-_youtube_video__tGv7CUutzqU.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767967943339_image_1767967943339.jpg",
+    "duration": "5:27",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 40,
+    "title": "When I Was Your Man",
+    "artist": "Bruno Mars",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767968035817_Bruno_Mars_-_When_I_Was_Your_Man.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767968064982_image_1767968064982.jpg",
+    "duration": "3:34",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 41,
+    "title": "A Sorrowful Reunion",
+    "artist": "Reality Club",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767968156470_A_Sorrowful_Reunion_-_Reality_Club__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767968131606_image_1767968131606.jpg",
+    "duration": "4:25",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 42,
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1767968249555_RB-RcX5DS5A.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1767968277688_image_1767968277688.jpg",
+    "duration": "4:25",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 43,
+    "title": "All I Ask",
+    "artist": "Adele",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768005729941_All_I_Ask_-_Adele__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768005932771_image_1768005932771.jpg",
+    "duration": "4:31",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 44,
+    "title": "Stay",
+    "artist": "Jt5k",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006025408_The_Kid_LAROI__Justin_Bieber_-_STAY__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006031871_image_1768006031871.jpg",
+    "duration": "2:46",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 45,
+    "title": "Kimi Dake O Mamoritai",
+    "artist": "Asuka",
+    "album": "Lagu Ultraman",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768009397745__Kimi_Dake_wo_Mamoritai__Ultraman_Dyna_ending_song_-_lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768009431975_image_1768009431975.jpg",
+    "duration": "3:40",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 46,
+    "title": "WILDFLOWER",
+    "artist": "Billie Eilish",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006158166_Billie_Eilish_-_WILDFLOWER__Karaoke_Version_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006213314_image_1768006213314.jpg",
+    "duration": "4:21",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 47,
+    "title": "back to friends",
+    "artist": "sombr",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006255576_sombr_-_back_to_friends__official_audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006264367_image_1768006264367.jpg",
+    "duration": "3:08",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 48,
+    "title": "Let Down",
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006303407_Radiohead_-_Let_Down__Remastered_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006331067_image_1768006331067.jpg",
+    "duration": "4:59",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 49,
+    "title": "Fake Plastic Trees",
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006377238_n5h0qHwNrHk.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006388248_image_1768006388248.jpg",
+    "duration": "4:50",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 50,
+    "title": "No Surprises",
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006470993_Radiohead_-_No_Surprises.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006477231_image_1768006477231.jpg",
+    "duration": "3:49",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 51,
+    "title": "High and Dry",
+    "artist": "Radiohead",
+    "album": "The Bends",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006525796_Radiohead_-_High_and_Dry.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006528156_image_1768006528156.jpg",
+    "duration": "4:17",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 52,
+    "title": "Apocalypse",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006569623_Cigarettes_After_Sex_-_youtube_video__sElE_BfQ67s.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006604531_image_1768006604531.jpg",
+    "duration": "4:50",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 53,
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "album": "Parachutes",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006900587_Y4QbJRAWvRU.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006904617_image_1768006904617.jpg",
+    "duration": "4:29",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 54,
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "album": "X&Y",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768006961689_Coldplay_-_Fix_You__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768006986259_image_1768006986259.jpg",
+    "duration": "4:55",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 55,
+    "title": "Creep",
+    "artist": "Radiohead",
+    "album": "Pablo Honey",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007024463_Radiohead_-_Creep.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007032858_image_1768007032858.jpg",
+    "duration": "3:58",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 56,
+    "title": "Linger",
+    "artist": "The Cranberries",
+    "album": "Everybody Else Is Doing It, So Why Can't We?",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007113206_G6Kspj3OO0s.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007119555_image_1768007119555.jpg",
+    "duration": "4:34",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 57,
+    "title": "Chasing Pavements",
+    "artist": "Adele",
+    "album": "19",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007186136_Adele_-_Chasing_Pavements__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007351718_image_1768007351718.jpg",
+    "duration": "3:30",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 58,
+    "title": "The Only Exception",
+    "artist": "Paramore",
+    "album": "Brand New Eyes",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007402354_Paramore_-_The_Only_Exception.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007404758_image_1768007404758.jpg",
+    "duration": "4:27",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 59,
+    "title": "cardigan",
+    "artist": "Taylor Swift",
+    "album": "folklore",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007444025_Best_Part_Loop__with_Rain__slowed___reverb_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007470589_image_1768007470589.jpg",
+    "duration": "3:59",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 60,
+    "title": "I Love You, I'm Sorry",
+    "artist": "Gracie Abrams",
+    "album": "Good Riddance",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768007536128_Gracie_Abrams_-_I_Love_You__I_m_Sorry__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768007538804_image_1768007538804.jpg",
+    "duration": "2:37",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 61,
+    "title": "Lover, You Should've Come Over",
+    "artist": "Jeff Buckley",
+    "album": "Grace",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008315939_Jeff_Buckley_-_Lover__You_Should_ve_Come_Over.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008291529_image_1768008291529.jpg",
+    "duration": "6:41",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 62,
+    "title": "SLOW DANCING IN THE DARK",
+    "artist": "Joji",
+    "album": "BALLADS 1",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008447514_Joji_-_SLOW_DANCING_IN_THE_DARK.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008454265_image_1768008454265.jpg",
+    "duration": "3:29",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 63,
+    "title": "Heather",
+    "artist": "Conan Gray",
+    "album": "Kid Krow",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008495273_izge-rLlINE.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008504257_image_1768008504257.jpg",
+    "duration": "3:18",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 64,
+    "title": "White Ferrari",
+    "artist": "Frank Ocean",
+    "album": "Blonde",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008548204_Frank_Ocean_-_White_Ferrari.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008555576_image_1768008555576.jpg",
+    "duration": "4:09",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 65,
+    "title": "Glimpse of Us",
+    "artist": "Joji",
+    "album": "Smithereens",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008741005_Joji_-_Glimpse_Of_Us.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008745876_image_1768008745876.jpg",
+    "duration": "3:53",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 66,
+    "title": "As the World Caves In",
+    "artist": "Matt Maltese",
+    "album": "Bad Contestant",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768008833292_SqDjQPoJxiw.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768008836769_image_1768008836769.jpg",
+    "duration": "3:41",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 67,
+    "title": "One More Night",
+    "artist": "Marone 5",
+    "album": "Marone 5",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Database/main/audio/1768302890230_fwK7ggA3-bU.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Database/main/images/1768302616950_image_1768302616950.jpg",
+    "duration": "3:45",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 68,
+    "title": "Yank",
+    "artist": "Wali Band",
+    "album": "Lagu Jawa Wali Band",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768306812713_Wali_Band_-_Yank__Official_Music_Video_NAGASWARA___music.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768306853615_image_1768306853615.jpg",
+    "duration": "3:45",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 69,
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "album": "V",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768306926322_N1BcpzPGlYQ.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768306977335_image_1768306977335.jpg",
+    "duration": "3:55",
+    "category": "happy",
+    "popular": true
+  },
+  {
+    "id": 70,
+    "title": "Gingga S",
+    "artist": "Takamiya",
+    "album": "V",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768307238014_Ultra_Lyrics_-_Ginga_No_Uta__Ultraman_ginga_Opening__Lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768307360300_image_1768307360300.jpg",
+    "duration": "3:55",
+    "category": "happy",
+    "popular": true
+  },
+  {
+    "id": 71,
+    "title": "Memories",
+    "artist": "Maroon 5",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768306599096_Maroon_5_-_Memories__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768306661820_image_1768306661820.jpg",
+    "duration": "3:09",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 72,
+    "title": "Faded",
+    "artist": "Alan Walker",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768307469211_Alan_Walker_-_Faded__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768307497276_image_1768307497276.jpg",
+    "duration": "3:32",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 73,
+    "title": "Legend Of Galaxy",
+    "artist": "Takamiya",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367281381_Takamiy_-_Topic_-_Legend_of_Galaxy.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367341190_image_1768367341190.jpg",
+    "duration": "5:54",
+    "category": "motivational",
+    "popular": true
+  },
+  {
+    "id": 74,
+    "title": "Sing Me To Sleep",
+    "artist": "Alan Walker",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367457424_Alan_Walker_-_Sing_Me_To_Sleep__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367464163_image_1768367464163.jpg",
+    "duration": "3:07",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 75,
+    "title": "Darkside",
+    "artist": "Alan Walker",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367517375_NEONI_-_Darkside__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367543189_image_1768367543189.jpg",
+    "duration": "3:31",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 76,
+    "title": "The Spectre",
+    "artist": "Alan Walker",
+    "album": "Lagu Galau lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367589781_Alan_Walker_-_The_Spectre.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367597471_image_1768367597471.jpg",
+    "duration": "3:13",
+    "category": "edm",
+    "popular": true
+  },
+  {
+    "id": 77,
+    "title": "On My Way",
+    "artist": "Alan Walker",
+    "album": "Different World",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367654305_Alan_Walker__Sabrina_Carpenter___Farruko__-_On_My_Way.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367661199_image_1768367661199.jpg",
+    "duration": "3:13",
+    "category": "motivational",
+    "popular": true
+  },
+  {
+    "id": 78,
+    "title": "All Falls Down",
+    "artist": "Alan Walker",
+    "album": "Diff",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768367703713_Alan_Walker_All_Falls_Down_feat_Noah_Cyrus_with_Digital_Farm.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768367710102_image_1768367710102.jpg",
+    "duration": "3:19",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 79,
+    "title": "ending ultraman cosmos",
+    "artist": "tsuburasa",
+    "album": "Lagu Ultraman",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768368010288_killua_1762175195316_cc443gq4ljq.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768368023593_image_1768368023593.jpg",
+    "duration": "5:00",
+    "category": "motivational",
+    "popular": false
+  },
+  {
+    "id": 80,
+    "title": "Lily",
+    "artist": "Alan Walker",
+    "album": "Different World",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768389808700_ox4tmEV6-QU.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768389907628_image_1768389907628.jpg",
+    "duration": "3:15",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 81,
+    "title": "Baby",
+    "artist": "Justin Bieber",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768389990115_Justin_Bieber_-_Baby_ft._Ludacris.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768389983196_image_1768389983196.jpg",
+    "duration": "3:36",
+    "category": "happy",
+    "popular": true
+  },
+  {
+    "id": 82,
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "album": "Lagu Galau Atau Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768390150884_Justin_Bieber_-_Sorry__PURPOSE___The_Movement_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768390183608_image_1768390183608.jpg",
+    "duration": "3:20",
+    "category": "dance",
+    "popular": true
+  },
+  {
+    "id": 83,
+    "title": "Love Yourself",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768390230057_Justin_Bieber_-_Love_Yourself__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391909255_image_1768391909255.jpg",
+    "duration": "3:53",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 84,
+    "title": "What Do You Mean?",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768390360045_Justin_Bieber_-_What_Do_You_Mean.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768390390753_image_1768390390753.jpg",
+    "duration": "3:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 85,
+    "title": "Yummy",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768391513627_Justin_Bieber_-_Yummy__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391520069_image_1768391520069.jpg",
+    "duration": "3:30",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 86,
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "album": "Justice",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768391662412_Peaches_-__Boys_Wanna_Be_Her__Official_Music_Video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391649900_image_1768391649900.jpg",
+    "duration": "3:18",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 87,
+    "title": "Ghost",
+    "artist": "Justin Bieber",
+    "album": "justin bieber Lagu Sad",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391717087_image_1768391717087.jpg",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768392003508_image_1768392003508.jpg",
+    "duration": "2:33",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 88,
+    "title": "As Long As You Love Me",
+    "artist": "Justin Bieber",
+    "album": "Lagu Romantis Justin Bieber biber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391786481_image_1768391786481.jpg",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768391786481_image_1768391786481.jpg",
+    "duration": "3:49",
+    "category": "romance",
+    "popular": true
+  },
+  {
+    "id": 89,
+    "title": "Boyfriend",
+    "artist": "Justin Bieber",
+    "album": "justin bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768397998030_Dove_Cameron_-_Boyfriend__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768397978306_image_1768397978306.jpg",
+    "duration": "2:51",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 90,
+    "title": "Intentions",
+    "artist": "Justin Bieber",
+    "album": "justin bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398092516_Dove_Cameron_-_Boyfriend__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398068461_image_1768398068461.jpg",
+    "duration": "3:32",
+    "category": "romance",
+    "popular": true
+  },
+  {
+    "id": 91,
+    "title": "Ojo Dibandingke",
+    "artist": "Denny Caknan",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398140560_Farel_Prayoga_Ojo_Di_Bandingke_Official_Music_Video_ANEKA_SAF.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398149843_image_1768398149843.jpg",
+    "duration": "5:12",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 92,
+    "title": "Kartonyono Medot Janji",
+    "artist": "Denny Caknan",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398216011_Denny_Caknan_-_Kartonyono_Medot_Janji__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398224041_image_1768398224041.jpg",
+    "duration": "5:05",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 93,
+    "title": "Loss Dol",
+    "artist": "Denny Caknan",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398296000_Denny_Caknan_-_LOS_DOL__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398307448_image_1768398307448.jpg",
+    "duration": "4:40",
+    "category": "happy",
+    "popular": true
+  },
+  {
+    "id": 94,
+    "title": "Rungkad",
+    "artist": "Happy Asmara",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398423342_HAPPY_ASMARA_FEAT_THE_SAXOBROTHERS_RUNGKAD_Official_Music_Vid.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398428709_image_1768398428709.jpg",
+    "duration": "5:43",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 95,
+    "title": "Wes Tatas",
+    "artist": "Happy Asmara",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398477313_HAPPY_ASMARA_-_WES_TATAS__Official_Live_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398484967_image_1768398484967.jpg",
+    "duration": "4:58",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 96,
+    "title": "Kuat Ati",
+    "artist": "Happy Asmara",
+    "album": "lagu jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398556340_Happy_Asmara_-_Kuat_Ati__Official_Music_Video_ANEKA_SAFARI_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398535502_image_1768398535502.jpg",
+    "duration": "4:46",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 97,
+    "title": "Iso Tanpo Koe",
+    "artist": "Happy Asmara",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398827697_DENNY_CAKNAN_-_ISO_TANPO_KOWE__OFFICIAL_LIVE_MUSIC_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398853909_image_1768398853909.jpg",
+    "duration": "5:01",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 98,
+    "title": "Cerito Loro",
+    "artist": "Happy Asmara",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398897937_Woro_Widowati_-_Cerito_Loro__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768398903791_image_1768398903791.jpg",
+    "duration": "4:55",
+    "category": "sad",
+    "popular": false
+  },
+  {
+    "id": 99,
+    "title": "Lungamu Ninggal Kenangan",
+    "artist": "Syahiba Shaufa",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768398977516_Syahiba_Saufa_-_Lungamu_Ninggal_Kenangan.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399069369_image_1768399069369.jpg",
+    "duration": "4:49",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 100,
+    "title": "Aku Bukan Jodohnya",
+    "artist": "Yeni Inka",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399117689_Tri_Suaka_-_Aku_Bukan_Jodohnya__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399129315_image_1768399129315.jpg",
+    "duration": "5:09",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 101,
+    "title": "Mendung Tanpo Udan",
+    "artist": "Ndarboy Genk",
+    "album": "lagu jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399332235_Ndarboy_Genk_Mendung_Tanpo_Udan_Official_Music_Video_Versi_D.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399332686_image_1768399332686.jpg",
+    "duration": "4:59",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 102,
+    "title": "Ojo Nangis",
+    "artist": "Ndarboy Genk feat. Denny Caknan",
+    "album": "lagu jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399389682_HAPPY_ASMARA_-_OJO_NANGIS__Official_Live_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399390568_image_1768399390568.jpg",
+    "duration": "4:45",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 103,
+    "title": "Sanes",
+    "artist": "Guyon Waton",
+    "album": "lagu jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399505275_GuyonWaton_x_Denny_Caknan_-_SANES__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399505790_image_1768399505790.jpg",
+    "duration": "5:00",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 104,
+    "title": "Dalan Liyane",
+    "artist": "Guyon Waton",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399588364_Happy_Asmara_Dalan_Liyane_Official_Music_Video_ANEKA_SAFARI.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399592709_image_1768399592709.jpg",
+    "duration": "4:52",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 105,
+    "title": "Prau Layar",
+    "artist": "Nella Kharisma",
+    "album": "lagu jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399679238_Nella_Kharisma_-_Prau_Layar.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399704227_image_1768399704227.jpg",
+    "duration": "4:33",
+    "category": "happy",
+    "popular": true
+  },
+  {
+    "id": 106,
+    "title": "Boso Moto",
+    "artist": "Suliana",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399776952_Suliyana_-_Bohoso_Moto__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768399781274_image_1768399781274.jpg",
+    "duration": "4:41",
+    "category": "sad",
+    "popular": true
+  },
+  {
+    "id": 107,
+    "title": "Tali Asmoro",
+    "artist": "NDX AKA",
+    "album": "Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768399960428_NDX_A.K.A_-_TALINING_ASMORO.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768400026293_image_1768400026293.jpg",
+    "duration": "5:06",
+    "category": "romance",
+    "popular": true
+  },
+  {
+    "id": 108,
+    "title": "Daylight",
+    "artist": "David Kushner",
+    "album": "Daylight - Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768660289382_David_Kushner_-_Daylight__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768660374741_image_1768660374741.jpg",
+    "duration": "3:50",
+    "category": "chill",
+    "popular": true
+  },
+  {
+    "id": 109,
+    "title": "Those Eyes",
+    "artist": "New West",
+    "album": "Those Eyes - Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768660622279_New_West_-_Those_Eyes__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768660625857_image_1768660625857.jpg",
+    "duration": "3:45",
+    "category": "romance",
+    "popular": true
+  },
+  {
+    "id": 110,
+    "title": "Angels Like You",
+    "artist": "Miley Cyrus",
+    "album": "Plastic Hearts",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768695244229_Miley_Cyrus_-_Angels_Like_You__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768695253420_image_1768695253420.jpg",
+    "duration": "4:05",
+    "category": "emotional",
+    "popular": true
+  },
+  {
+    "id": 111,
+    "title": "Snooze",
+    "artist": "SZA",
+    "album": "SOS",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770652037086_SZA_-_Snooze__Audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770652120322_image_1770652120322.jpg",
+    "duration": "3:23",
+    "category": "rnb",
+    "popular": true
+  },
+  {
+    "id": 112,
+    "title": "Stereo Hearts",
+    "artist": "Fueled By Ramen",
+    "album": "Lagu Old Nostalgia",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770652300664_Fueled_By_Ramen_Gym_Class_Heroes_Stereo_Hearts_ft_Adam_Levin.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770652415308_image_1770652415308.jpg",
+    "duration": "3:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 113,
+    "title": "Texas Hold 'Em",
+    "artist": "Beyoncé",
+    "album": "Cowboy Carter",
+    "src": "https://example.com/audio/texas-hold-em.mp3",
+    "img": "https://example.com/images/cowboy-carter.jpg",
+    "duration": "3:05",
+    "category": "country",
+    "popular": true
+  },
+  {
+    "id": 114,
+    "title": "Pacar Yang Hilang",
+    "artist": "Biru Band",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768659175897_Biru_Band_-_Pacar_Yang_Hilang__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768659207145_image_1768659207145.jpg",
+    "duration": "5:06",
+    "category": "romance",
+    "popular": true
+  },
+  {
+    "id": 115,
+    "title": "Hujan",
+    "artist": "Utopia",
+    "album": "Happy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770653199820_Utopia_-_Hujan.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770653279960_image_1770653279960.jpg",
+    "duration": "3:49",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 116,
+    "title": "Jadi Diri Sendiri",
+    "artist": "Humood Alkhoder",
+    "album": "Hummod Alkhoder",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1772059680394_Humood_Alkhudher_Jadi_Diri_Sendiri_Official_Video_Lirik_Kun.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1772059796007_image_1772059796007.jpg",
+    "duration": "4:03",
+    "category": "indonesia",
+    "popular": true
+  },
+  {
+    "id": 117,
+    "title": "Penjaga Hati",
+    "artist": "Nadin Amizah",
+    "album": "Selamat Ulang Tahun",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770652560400_nadhif_basalamah_-_penjaga_hati__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770652592769_image_1770652592769.jpg",
+    "duration": "4:20",
+    "category": "indonesia",
+    "popular": true
+  },
+  {
+    "id": 118,
+    "title": "Tobat Maksiat",
+    "artist": "Wali Band",
+    "album": "Wali Band",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770822432976_Wali_Band_Tobat_Maksiat_Tomat_Official_Music_Video_NAGASWAR.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770822563701_image_1770822563701.jpg",
+    "duration": "4:27",
+    "category": "nostalgia",
+    "popular": true
+  },
+  {
+    "id": 119,
+    "title": "Sesuatu Yang Sempurna",
+    "artist": "Hijau Daun",
+    "album": "Lagu Cinta Hijau Daun",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770822722605_Hijau_Daun_-_Sesuatu_Yang_Sempurna__Official_Video_Clip_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770822822113_image_1770822822113.jpg",
+    "duration": "4:45",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 120,
+    "title": "Dj Pahit Asam Manis Nya Cinta",
+    "artist": "",
+    "album": "Dj Afriantoft",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771156724184_DJ_Apriyantoft_-_DJ_PAHIT_ASAM_MANISNYA_CINTA_MOCIL_FVNKY.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771156788038_image_1771156788038.jpg",
+    "duration": "6:23",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 121,
+    "title": "Greedy",
+    "artist": "Tate McRae",
+    "album": "Think Later",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722928825_Tate_McRae_-_greedy__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722953328_image_1768722953328.jpg",
+    "duration": "2:12",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 122,
+    "title": "Dance The Night",
+    "artist": "Dua Lipa",
+    "album": "Barbie The Album",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722864733_Dua_Lipa_-_Dance_The_Night.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722873038_image_1768722873038.jpg",
+    "duration": "2:54",
+    "category": "dance",
+    "popular": true
+  },
+  {
+    "id": 123,
+    "title": "Sedia aku sebelum hujan",
+    "artist": "Idgitaf",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768708144683_Idgitaf_-_Sedia_Aku_Sebelum_Hujan__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768708104871_image_1768708104871.jpg",
+    "duration": "4:15",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 124,
+    "title": "Kota ini tak sama tanpamu",
+    "artist": "Nadhif Basalamah",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768708380967_nadhif_basalamah_-_youtube_video__grp6FCnioMM.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768708398550_image_1768708398550.jpg",
+    "duration": "3:45",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 125,
+    "title": "Dj Sedia Aku Sebelum Hujan",
+    "artist": "Nadhif Bashmala",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768718419208_Maman_Fvndy_Rmx_DJ_SEDIA_AKU_SEBELUM_HUJAN_X_SO_ASU_NAYKILLA_S.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768718144757_image_1768718144757.jpg",
+    "duration": "4:02",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 126,
+    "title": "Berakhir di aku",
+    "artist": "Idgitaf",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768718485381_Idgitaf_Berakhir_di_Aku_OST_Home_Sweet_Loan_Official_Lyric.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768718497676_image_1768718497676.jpg",
+    "duration": "3:58",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 127,
+    "title": "Semata Karenamu",
+    "artist": "Mario G. Klau",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768718545837_MARIO_G_KLAU_-_SEMATA_KARENAMU__OFFICIAL_MUSIC_VIDEO_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768718548481_image_1768718548481.jpg",
+    "duration": "4:12",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 128,
+    "title": "Sementara",
+    "artist": "Float",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768718604510_Nurizwan_Azmi_-_Euforia_Sementara___Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768718721663_image_1768718721663.jpg",
+    "duration": "3:35",
+    "category": "alternative",
+    "popular": true
+  },
+  {
+    "id": 129,
+    "title": "Kukira kau rumah",
+    "artist": "Amigdala",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768718767691_Pendarra_-_Kukira_Kau_Rumah.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768718824916_image_1768718824916.jpg",
+    "duration": "4:25",
+    "category": "indie",
+    "popular": true
+  },
+  {
+    "id": 130,
+    "title": "Kenangan manis",
+    "artist": "Pamungkas",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768719293245_Pamungkas_-_Kenangan_Manis__Lyrics_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768719300370_image_1768719300370.jpg",
+    "duration": "3:27",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 131,
+    "title": "Komang",
+    "artist": "Raim Laode",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768719431416_KOMANG_-_RAIM_LAODE_LYRIC_OFFICIAL.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768719493021_image_1768719493021.jpg",
+    "duration": "3:42",
+    "category": "folk",
+    "popular": true
+  },
+  {
+    "id": 132,
+    "title": "Alamak",
+    "artist": "Rizky Febian",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768719576651_Rizky_Febian___Adrian_Khalif_-_Alamak__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768719588251_image_1768719588251.jpg",
+    "duration": "3:50",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 133,
+    "title": "Runtuh",
+    "artist": "Feby Putri",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768719661979_Runtuh_Feby_Putri_feat_Fiersa_Besari_Official_Visualizer.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768719666675_image_1768719666675.jpg",
+    "duration": "4:08",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 134,
+    "title": "Garis terdepan",
+    "artist": "Fiersa Besari",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768721894871_Fiersa_Besari_-_Topic_-_Garis_Terdepan.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768721902364_image_1768721902364.jpg",
+    "duration": "4:30",
+    "category": "folk",
+    "popular": true
+  },
+  {
+    "id": 135,
+    "title": "Sempurna",
+    "artist": "Andra and the Backbone",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722050298_Andra_and_The_Backbone_-_Sempurna__lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722164756_image_1768722164756.jpg",
+    "duration": "4:26",
+    "category": "rock",
+    "popular": true
+  },
+  {
+    "id": 136,
+    "title": "Kita usahakan lagi",
+    "artist": "Batas Senja",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722231960_BATAS_SENJA_-_Kita_Usahakan_Lagi__Official_Lyric_Video__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722305373_image_1768722305373.jpg",
+    "duration": "4:05",
+    "category": "indie",
+    "popular": false
+  },
+  {
+    "id": 137,
+    "title": "Perayaan Mati Rasa",
+    "artist": "Umay Shahab",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722371383_UMAY_SHAHAB_-_perayaan_mati_rasa.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722378771_image_1768722378771.jpg",
+    "duration": "3:55",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 138,
+    "title": "Mangu",
+    "artist": "Fourtwnty",
+    "album": "Lagu Indo",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722439154_Mangu_-_Fourtwnty__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722509457_image_1768722509457.jpg",
+    "duration": "4:18",
+    "category": "alternative",
+    "popular": true
+  },
+  {
+    "id": 139,
+    "title": "Bunga Maaf",
+    "artist": "The Lantis",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/bunga-maaf.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722595855_image_1768722595855.jpg",
+    "duration": "3:40",
+    "category": "rock",
+    "popular": false
+  },
+  {
+    "id": 140,
+    "title": "Bergema selamanya",
+    "artist": "Nadhif Basalamah",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/audio/1768722652762_Nadhif_Basalamah_bergema_sampai_selamanya_Official_Lyric_Vide.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Loriyagami/main/images/1768722680364_image_1768722680364.jpg",
+    "duration": "3:50",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 141,
+    "title": "Whare We Are",
+    "artist": "One Derection",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770343126934_One_direction_-_Where_we_are__Unreleased__Music_video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770343205623_image_1770343205623.jpg",
+    "duration": "3:42",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 142,
+    "title": "Terlalu Lama",
+    "artist": "Viera",
+    "album": "Lagau Galau Lagu Sedih Viera",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770342423813_Vierra_-_Terlalu_Lama__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770342665163_image_1770342665163.jpg",
+    "duration": "4:07",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 143,
+    "title": "8 Lettrs",
+    "artist": "Why Don`t We",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770344062666_Why_Don_t_We_-_8_Letters__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770344242264_image_1770344242264.jpg",
+    "duration": "4:04",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 144,
+    "title": "Dj Bukan Cinta Biasa",
+    "artist": "Siti Nurhaliza",
+    "album": "Lagu Dj",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770345189911_Dj_Dhevia_Fvnky_DJ_BUKAN_CINTA_BIASA_CINTAKU_BUKAN_DIATAS_KE.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770345397754_image_1770345397754.jpg",
+    "duration": "5:52",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 145,
+    "title": "Ending Song Nexus",
+    "artist": "Project DMM",
+    "album": "Ultraman Nexus",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770345658785______IN_db_Official_Channel______IN_db__________________.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770345858394_image_1770345858394.jpg",
+    "duration": "3:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 146,
+    "title": "Tewas Tertimbun Masalalu (TTM)",
+    "artist": "N.D.X A.K.A",
+    "album": "Lagu Galau Lagu Jawa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770346301021_NDX_AKA_-_Tewas_Tertimbun_Masa_Lalu__TTM_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770346651810_image_1770346651810.jpg",
+    "duration": "4:04",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 147,
+    "title": "Starlight",
+    "artist": "Ultra Lyric",
+    "album": "Ultraman Gingga",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770351799070_Ultra_Lyrics_-_STARLIGHT__Ultraman_Ginga_Ending__Lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770351865977_image_1770351865977.jpg",
+    "duration": "4:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 148,
+    "title": "Resah Dadi Pelangi",
+    "artist": "N.D.X A.K.A",
+    "album": "Lagu Galau Lagu Jawa N.D.X A.K.A",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/audio/1770383230435_NDX_A.K.A_-_Rasah_Dadi_Pelangi___Official_Music_Video__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Abonimau/main/images/1770382910296_image_1770382910296.jpg",
+    "duration": "3:57",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 149,
+    "title": "Menerima Luka",
+    "artist": "Natasya Sabila",
+    "album": "Natasya Sabila Lagu galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770454651511_NATASYA_SABELLA_-_MENERIMA_LUKA___OFFICIAL_LYRICS_VIDEO__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770454709849_image_1770454709849.jpg",
+    "duration": "3:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 150,
+    "title": "Ours To Keep Ft Adies Official",
+    "artist": "Kendis",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770552782253_Kendis_-_ours_to_keep__feat._adis___Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770823073140_image_1770823073140.jpg",
+    "duration": "3:26",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 151,
+    "title": "Bad Liar",
+    "artist": "Imagine Dragons",
+    "album": "Lagu Old Nostalgia",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770553095189_Imagine_Dragons_-_Bad_Liar.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770553213349_image_1770553213349.jpg",
+    "duration": "4:44",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 152,
+    "title": "Beuty And A beat",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770553338162_Justin_Bieber_Beauty_And_A_Beat_Official_Music_Video_ft_Nic.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770553377371_image_1770553377371.jpg",
+    "duration": "3:50",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 153,
+    "title": "As if it`s Your Last",
+    "artist": "BLACK PINK",
+    "album": "BLACK PINK",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770553529219_V.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770553707206_image_1770553707206.jpg",
+    "duration": "3:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 154,
+    "title": "Sekuat Hatimu",
+    "artist": "Last Child",
+    "album": "Lagu Galau Last Child",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770553826330_LAST_CHILD_-_Sekuat_Hatimu__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770553895708_image_1770553895708.jpg",
+    "duration": "4:42",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 155,
+    "title": "Diary Depresiku",
+    "artist": "Last Child",
+    "album": "Lagu Galau Last Child",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770555968040_Last_Child_-_Diary_Depresiku__Lirik_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770556073125_image_1770556073125.jpg",
+    "duration": "5:18",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 156,
+    "title": "Percayalah",
+    "artist": "SITI NURHALIZA",
+    "album": "single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770556210413_Percayalah_-_Official_Lyric_Video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770556312739_image_1770556312739.jpg",
+    "duration": "4:43",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 157,
+    "title": "Indah Tak Sempurna",
+    "artist": "STAND HERE ALONE",
+    "album": "Single",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770556440393_STAND_HERE_ALONE_INDAH_TAK_SEMPURNA_OFFICIAL_MUSIC_VIDEO_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770556479265_image_1770556479265.jpg",
+    "duration": "4:11",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 158,
+    "title": "DJ TANTE HOLIC",
+    "artist": "DJ PAJAR SKY RIMEX",
+    "album": "Lagu Happy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770556706807_DJ_Pajarsky_Rimex_DJ_TEMANKU_SEMUA_PADA_JAHAT_TANTE_TREND_TANT.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770556774861_image_1770556774861.jpg",
+    "duration": "6:23",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 159,
+    "title": "DJ Tak Tahu Malu",
+    "artist": "DJ PAJAR SKY RIMEX",
+    "album": "Lagu Happy Lagu Dj",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770650846678_DJ_TAPI_DI_BELAKANG_KAU_TIPU_TIPU_AKU_DJ_TAK_TAHU_MALU_REMIX_J.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770651397587_image_1770651397587.jpg",
+    "duration": "4:56",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 160,
+    "title": "Secukupnya",
+    "artist": "Hindia",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1770651697624_Hindia_-_Secukupnya__Official_Lyric___Commentary_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1770651717473_image_1770651717473.jpg",
+    "duration": "3:26",
+    "category": "pop",
+    "popular": false
+  },
+  {
+    "id": 161,
+    "title": "Dj Aku Dah Lupa Tak Ingat Lagi",
+    "artist": "Mamang Fvndy Rmx",
+    "album": "Lagu Dj",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771157458216_Maman_Fvndy_Rmx_DJ_AKU_DAH_LUPA_TAK_INGAT_LAGI_VIRAL_TIKTOK_SL.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771157599942_image_1771157599942.jpg",
+    "duration": "3:42",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 162,
+    "title": "night changes",
+    "artist": "one direction",
+    "album": "one direction",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1772059446745_syFZfO_wfMQ.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1772059521979_image_1772059521979.jpg",
+    "duration": "4:00",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 163,
+    "title": "Anugrah Terindah",
+    "artist": "Tulus",
+    "album": "Kamar Break Beat",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771157897347_Kamar_Breakbeat_-_DJ_ANUGRAH_TERINDAH_BREAKBEAT_TERBARU_2025.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771157985537_image_1771157985537.jpg",
+    "duration": "3:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 164,
+    "title": "Bahagia Lagi",
+    "artist": "Piece Kota",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771160824810_Bahagia_Lagi_-_Piche_Kota.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771160960157_image_1771160960157.jpg",
+    "duration": "3:48",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 165,
+    "title": "Message In Bottle",
+    "artist": "Tylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771161478104_Taylor_Swift_Message_In_A_Bottle_Taylor_s_Version_From_The.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779506499808_image_1779506499808.jpg",
+    "duration": "3:46",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 166,
+    "title": "Unconditionally",
+    "artist": "Katy Perry",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771290512583_Katy_Perry_-_Unconditionally__Official_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771290633399_image_1771290633399.jpg",
+    "duration": "3:57",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 167,
+    "title": "Rewrite The Stars",
+    "artist": "JamesArthur,Anne Marie",
+    "album": "JamesArthur,Anne Marie",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771290992773_James_Arthur__Anne_Marie_Rewrite_the_Stars_Karaoke_Version.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771291123695_image_1771291123695.jpg",
+    "duration": "3:54",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 168,
+    "title": "Heate X Eyes Blue",
+    "artist": "Shadow Music",
+    "album": "Shadow Music",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771535195886_Heather_x_Eyes_Blue__Lyrics___Untrusted___Pretence_Cover__1771535195.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771535151381_image_1771535151.jpg",
+    "duration": "2:56",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 169,
+    "title": "Baon Cikadap",
+    "artist": "Dunia Music Ku",
+    "album": "Dunia Music Ku",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771328006641_DUNIA_MUSIC_KU_BAON_CIKADAP_LAGU_JOROK_LIRIK__baoncikadap__dun.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771328053954_image_1771328053954.jpg",
+    "duration": "4:00",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 170,
+    "title": "Denok",
+    "artist": "Cindi Cintiya",
+    "album": "Cindi Cintiya",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771332199584_DENOK_-_Cindi_Cintya_feat_Sadewok__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771332481261_image_1771332481261.jpg",
+    "duration": "5:24",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 171,
+    "title": "for the rest of my life",
+    "artist": "Maher Zain",
+    "album": "Maher Zain",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771380113398_Maher_Zain_-_For_The_Rest_Of_My_Life.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771380152424_image_1771380152424.jpg",
+    "duration": "4:48",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 172,
+    "title": "cincin",
+    "artist": "Hindia",
+    "album": "Lagu Galau Hindia",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771380668840_Hindia_-_Cincin__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771380718239_image_1771380718239.jpg",
+    "duration": "4:27",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 173,
+    "title": "Gak Pake Lama (Dj Buncit Remix)",
+    "artist": "Manda Cello",
+    "album": "Manda Cello Lagu Happy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771381726780_DJ_Buncit_-_Topic_-_Gak_Pake_Lama__DJ_Buncit_Remix_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771381867849_image_1771381867849.jpg",
+    "duration": "3:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 174,
+    "title": "Cari Berkah",
+    "artist": "Wali Band",
+    "album": "Wali Band",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771452970506_Cari_Berkah__Official_Music_Video_NAGASWARA___music_1771452970.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771480346205_image_1771480346.jpg",
+    "duration": "4:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 175,
+    "title": "Dj Aku Suges",
+    "artist": "WAN VENOX",
+    "album": "WAN VENOX",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771535954944_Lagu_Party___DJ_AKU_SUGES__WAN_VENOX_REMIX__1771535954.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771536447492_image_1771536447.jpg",
+    "duration": "5:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 176,
+    "title": "Kurang Gizi",
+    "artist": "Via Valen",
+    "album": "Via Valen",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771536855478_VIA_VALLEN__1771536855.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771536845035_image_1771536845.jpg",
+    "duration": "4:48",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 177,
+    "title": "Ramadhan Tiba",
+    "artist": "Opick",
+    "album": "Opick",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771537351788_Ramadhan_Tiba__1771537351.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771537388497_image_1771537388.jpg",
+    "duration": "3:39",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 178,
+    "title": "Opening Ultraman Dyna",
+    "artist": "Ultra Lyric",
+    "album": "Ultra Lyric",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771538218370_Ultraman_Dyna_opening__Lyrics__1771538218.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771538285535_image_1771538285.jpg",
+    "duration": "4:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 179,
+    "title": "Fire & Water ",
+    "artist": "Faizal Tahir",
+    "album": "Faizal Tahir",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771538734819_Fire___Water__OST__BoBoiBoy_Movie_2___1771538734.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771538742227_image_1771538742.jpg",
+    "duration": "3:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 180,
+    "title": "Dunia Baru",
+    "artist": "Boboiboy Galaxy",
+    "album": "Boboiboy Galaxy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771538891545_Dunia_Baru__1771538891.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771538929858_image_1771538929.jpg",
+    "duration": "3:20",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 181,
+    "title": "Kesepian",
+    "artist": "Viera",
+    "album": "Viera",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1771539083220_Kesepian__Official_Music_Video__1771539083.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1771539163308_image_1771539163.jpg",
+    "duration": "4:23",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 182,
+    "title": "Meraih Bintang",
+    "artist": "Via Valen",
+    "album": "Via Valen",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1772058917846_VIA_VALLEN_-_MERAIH_BINTANG.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1772059047393_image_1772059047393.jpg",
+    "duration": "3:08",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 183,
+    "title": "Barang Antik",
+    "artist": "Iwan Fals",
+    "album": "Iwan Fals",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777381328610_Iwan_Fals_Musica_-_Barang_Antik.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777381202337_image_1777381202335.jpg",
+    "duration": "3:30",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 184,
+    "title": "Ngerteno Ati",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777381978469_NDX_AKA_-_Ngertenono_Ati___NDX_Version__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777382010910_image_1777382010910.jpg",
+    "duration": "4:01",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 185,
+    "title": "Dj Satu Bulan",
+    "artist": "Bernadya",
+    "album": "Bernadya",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777382159746_DJ_SATU_BULAN_BERNADYA_NDX_KOPLO_DJ_SUDAH_ADAKAH_YANG_GANTIK.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777382236410_image_1777382236410.jpg",
+    "duration": "4:44",
+    "category": "pop",
+    "popular": false
+  },
+  {
+    "id": 186,
+    "title": "Banyu Surgo",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777382384010_NDX_AKA_-_BANYU_SURGO_REMAKE__OFFICIAL_LIRIK_VIDEO_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777382463683_image_1777382463683.jpg",
+    "duration": "4:44",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 187,
+    "title": "Kimcil Kepolen",
+    "artist": "NDX AKA",
+    "album": "NDX AKA",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777382587957_NDX_AKA_Kimcil_Kepolen_Live_at_Pesta_Semalam_Minggu_Vol_4.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777382656577_image_1777382656577.jpg",
+    "duration": "4:14",
+    "category": "pop",
+    "popular": false
+  },
+  {
+    "id": 188,
+    "title": "Sudah Cukup Sudah",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777382737426_NDX_A_K_A_-_Sudah_Cukup_Sudah.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777382787999_image_1777382787999.jpg",
+    "duration": "4:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 189,
+    "title": "Di Tinggal Rabi",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777428288936_NDX_AKA_Ditinggal_Rabi_Live_at_Pesta_Semalam_Minggu_Vol_4.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777428350087_image_1777428350087.jpg",
+    "duration": "4:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 190,
+    "title": "Nemen Hiphop Dangdut Version",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777428482071_NDXAKA_-_youtube_video__UqA7zfsVlIg.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777428496786_image_1777428496786.jpg",
+    "duration": "4:10",
+    "category": "pop",
+    "popular": false
+  },
+  {
+    "id": 191,
+    "title": "Lilakno Aku Mix + Slow + Reverb",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777428680574_Lilakno_Aku_-_Ndx_Aka___Mix___Slow___Reverb__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777428731717_image_1777428731717.jpg",
+    "duration": "4:03",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 192,
+    "title": "Tresno Tekane Mati",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777428868020_NDX_AKA_Tresno_Tekan_Mati_New_Version_Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777428972443_image_1777428972443.jpg",
+    "duration": "4:30",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 193,
+    "title": "Apa Kabar Mantan",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777429367698_NDXAKA_TV_NDX_A_K_A_Apa_Kabar_Mantan_I_JOOX_Original_Offici.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777429452881_image_1777429452881.jpg",
+    "duration": "4:08",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 194,
+    "title": "Sendiri Dalam Luka",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777429600913_NDX_AKA_-_Sendiri_Dalam_Luka___Official_Lyric_Video__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777429655362_image_1777429655362.jpg",
+    "duration": "4:02",
+    "category": "pop",
+    "popular": false
+  },
+  {
+    "id": 195,
+    "title": "Angin Dalu",
+    "artist": "NDX A.K.A.",
+    "album": "NDX A.K.A.",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777429735722_NDX_A.K.A_-_Angin_Dalu_HipHop_Dangdut_Version.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777429773935_image_1777429773935.jpg",
+    "duration": "4:26",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 196,
+    "title": "BAND 4 BAND",
+    "artist": "CENTRAL CEE FT.LILBABY",
+    "album": "CENTRAL CEE FT.LILBABY",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777811374164_CENTRAL_CEE_FT._LIL_BABY_-_BAND4BAND__MUSIC_VIDEO_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777811492292_image_1777811492292.jpg",
+    "duration": "2:31",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 197,
+    "title": "GATA ONLY (REMIX)",
+    "artist": "ANNITA X OZUNNA",
+    "album": "CENTRAL CEE FT.LILBABY",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777811847479_FloyyMenor__Anitta__Ozuna_-_GATA_ONLY_REMIX__Audio_Oficial_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777811853555_image_1777811853555.jpg",
+    "duration": "3:50",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 198,
+    "title": "One Time",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777813074809_Justin_Bieber_-_One_Time__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777813130727_image_1777813130727.jpg",
+    "duration": "4:04",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 199,
+    "title": "DOWN TO EARTH",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777813312102_Misslill15_Justin_Bieber_down_to_earth_official_music_video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777813383448_image_1777813383448.jpg",
+    "duration": "4:07",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 200,
+    "title": "Firs Dance",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777813741077_Justin_Bieber_-_First_Dance_ft._Usher.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777813790397_image_1777813790397.jpg",
+    "duration": "3:42",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 201,
+    "title": "Love Me",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777813901909_Justin_Bieber_-_Love_Me.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777813936253_image_1777813936253.jpg",
+    "duration": "3:13",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 202,
+    "title": "Bigger",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777814033902_Justin_Bieber_-_Bigger.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777814068811_image_1777814068811.jpg",
+    "duration": "3:17",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 203,
+    "title": "Favorite Girl",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777812710656_Justin_Bieber_-_Favorite_Girl.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777812748563_image_1777812748563.jpg",
+    "duration": "4:17",
+    "category": "pop",
+    "popular": true,
+    "syncedLyrics": [
+      {
+        "t": 0,
+        "text": "♪ Intro ♪"
+      },
+      {
+        "t": 10,
+        "text": "I always knew you were the best"
+      },
+      {
+        "t": 14,
+        "text": "The coolest girl I know"
+      },
+      {
+        "t": 16,
+        "text": "So prettier than all the rest"
+      },
+      {
+        "t": 19,
+        "text": "the star of my show"
+      },
+      {
+        "t": 21,
+        "text": "So many times I wished you'd be the one for me"
+      },
+      {
+        "t": 27,
+        "text": "But never knew you'd get like this,girl What'd you do to me?"
+      },
+      {
+        "t": 32,
+        "text": "You're who I'm thinking of (of)"
+      },
+      {
+        "t": 37,
+        "text": "And girl, you ain't my runner-up (up)"
+      },
+      {
+        "t": 39,
+        "text": "And no matter what, you're always number one"
+      },
+      {
+        "t": 43,
+        "text": "My prize possession, one and only"
+      },
+      {
+        "t": 47,
+        "text": "Adore you, girl, I want you"
+      },
+      {
+        "t": 49,
+        "text": "The one I can't live without"
+      },
+      {
+        "t": 52,
+        "text": "That's you (that's you), that's you (that's you)"
+      },
+      {
+        "t": 55,
+        "text": "You're my special little lady"
+      },
+      {
+        "t": 58,
+        "text": "The one that makes me crazy"
+      },
+      {
+        "t": 60,
+        "text": "Of all the girls I've ever known, it's you, it's you"
+      },
+      {
+        "t": 66,
+        "text": "My favorite, my favorite (ah-ah, ah, oh)"
+      },
+      {
+        "t": 70,
+        "text": "My favorite, my favorite girl (ah-ah, ah, oh)"
+      },
+      {
+        "t": 73,
+        "text": "My favorite girl (ah-ah, ah, oh)"
+      },
+      {
+        "t": 77,
+        "text": "You're used to going out your way to impress these Mr. Wrongs"
+      },
+      {
+        "t": 82,
+        "text": "But you can be yourself with me"
+      },
+      {
+        "t": 85,
+        "text": "I'll take you as you are"
+      },
+      {
+        "t": 88,
+        "text": "I know they said, \"Believe in love\""
+      },
+      {
+        "t": 90,
+        "text": "It's a dream that can't be real"
+      },
+      {
+        "t": 93,
+        "text": "So girl, let's write a fairytale and show 'em how we feel"
+      },
+      {
+        "t": 99,
+        "text": "You're who I'm thinking of (of)"
+      },
+      {
+        "t": 102,
+        "text": "And girl, you ain't my runner-up (up)"
+      },
+      {
+        "t": 105,
+        "text": "And no matter what, you're always number one"
+      },
+      {
+        "t": 109,
+        "text": "My prize possession (you're my), one and only"
+      },
+      {
+        "t": 200,
+        "text": "(Whoa) adore you, girl, I want you"
+      },
+      {
+        "t": 139,
+        "text": "(Oh) the one I can't live without"
+      },
+      {
+        "t": 142,
+        "text": "That's you (that's you), that's you (that's you)"
+      },
+      {
+        "t": 146,
+        "text": "You're my special little lady"
+      },
+      {
+        "t": 149,
+        "text": "The one that makes me crazy"
+      },
+      {
+        "t": 152,
+        "text": "Of all the girls I've ever known, it's you, it's you (you)"
+      },
+      {
+        "t": 157,
+        "text": "My favorite, my favorite (ah-ah, ah, oh)"
+      },
+      {
+        "t": 161,
+        "text": "My favorite, my favorite girl (ah-ah, ah, oh)"
+      },
+      {
+        "t": 165,
+        "text": "My favorite girl (ah-ah, ah, oh) (baby, it's you)"
+      },
+      {
+        "t": 169,
+        "text": "My favorite, my favorite (ah-ah, ah, oh)"
+      },
+      {
+        "t": 173,
+        "text": "My favorite, my favorite girl (ah-ah, ah, oh)"
+      },
+      {
+        "t": 177,
+        "text": "My favorite girl (ah-ah, ah, oh)"
+      },
+      {
+        "t": 181,
+        "text": "You take my breath away with everything you say"
+      },
+      {
+        "t": 186,
+        "text": "I just want to be with you, my baby, my baby"
+      },
+      {
+        "t": 191,
+        "text": "Oh-oh, promise I'll play no games"
+      },
+      {
+        "t": 195,
+        "text": "Treat you no other way than you deserve"
+      },
+      {
+        "t": 199,
+        "text": "'Cause you're the girl of my dreams"
+      },
+      {
+        "t": 203,
+        "text": "My prize possession, one and only"
+      },
+      {
+        "t": 207,
+        "text": "Adore you, girl, I want you"
+      },
+      {
+        "t": 211,
+        "text": "The one I can't live without"
+      },
+      {
+        "t": 214,
+        "text": "That's you, that's you"
+      },
+      {
+        "t": 218,
+        "text": "You're my special little lady"
+      },
+      {
+        "t": 221,
+        "text": "The one that makes me crazy"
+      },
+      {
+        "t": 224,
+        "text": "Of all the girls I've ever known, it's you, it's you"
+      },
+      {
+        "t": 229,
+        "text": "My prize possession, one and only"
+      },
+      {
+        "t": 233,
+        "text": "Adore you, girl, I want you (I want you, oh)"
+      },
+      {
+        "t": 237,
+        "text": "The one I can't live without"
+      },
+      {
+        "t": 240,
+        "text": "That's you (that's you), that's you (that's you)"
+      },
+      {
+        "t": 244,
+        "text": "You're my special little lady (you're my special little lady)"
+      },
+      {
+        "t": 248,
+        "text": "The one that makes me crazy (the one that makes me crazy)"
+      },
+      {
+        "t": 252,
+        "text": "Of all the girls I've ever known, it's you (oh-oh)"
+      },
+      {
+        "t": 256,
+        "text": "(You're my favorite girl) it's you"
+      },
+      {
+        "t": 260,
+        "text": "My favorite, my favorite"
+      },
+      {
+        "t": 263,
+        "text": "(Favorite girl) my favorite, my favorite girl"
+      },
+      {
+        "t": 266,
+        "text": "(Favorite girl) my favorite girl"
+      },
+      {
+        "t": 269,
+        "text": "(Oh, whoa, favorite girl) my favorite, my favorite"
+      },
+      {
+        "t": 273,
+        "text": "(Favorite girl) my favorite, my favorite girl"
+      },
+      {
+        "t": 276,
+        "text": "(Favorite girl) my favorite girl"
+      },
+      {
+        "t": 280,
+        "text": "Favorite girl"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "title": "One Less Lonely Girl",
+    "artist": "JustinBieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777814284559_Justin_Bieber_-_One_Less_Lonely_Girl.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777814374006_image_1777814374006.jpg",
+    "duration": "3:51",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 205,
+    "title": "Peaches Ft Daniel Caeser",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777814570840_Justin_Bieber_-_Peaches_ft._Daniel_Caesar__Giveon.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777814625147_image_1777814625147.jpg",
+    "duration": "3:18",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 206,
+    "title": "Never Say Never",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777814806756_Justin_Bieber_-_Never_Say_Never_ft._Jaden.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777814847383_image_1777814847383.jpg",
+    "duration": "3:50",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 207,
+    "title": "Duka X Serana",
+    "artist": "Last Child X For Revange",
+    "album": "Last Child X For Revange",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777814999180_Last_Child_X_For_Revenge_-_Duka_X_Serana.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777815241515_image_1777815241515.jpg",
+    "duration": "6:15",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 208,
+    "title": "Company",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777855745815_Justin_Bieber_-_Company.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777855792325_image_1777855792325.jpg",
+    "duration": "3:28",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 209,
+    "title": "10.000 Hours",
+    "artist": "Dan + Say Justin Bieber",
+    "album": "Dan + Say Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777855948453_Dan___Shay__Justin_Bieber_10_000_Hours_Official_Music_Video.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777855988502_image_1777855988502.jpg",
+    "duration": "2:56",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 210,
+    "title": "DJ DROPSAY ANTI DROP",
+    "artist": "P A K Y A N",
+    "album": "P A K Y A N",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777895379088_Roket_DJ_FANKOT_DROPSAY_ALWAYS_STRONG_ANTI_DROP__FT_DEDIK_SETI.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777895515884_image_1777895515884.jpg",
+    "duration": "5:57",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 211,
+    "title": "Langit Tak Seharusnya Biru",
+    "artist": "The Jansen",
+    "album": "The Jansen",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777895767048_THE_JANSEN_Langit_Tak_Seharusnya_Biru_Live_at_Comm_Fest_Unser.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777895844330_image_1777895844330.jpg",
+    "duration": "4:59",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 212,
+    "title": "Mimossa 2000",
+    "artist": "Furacao 2000",
+    "album": "Furacao 2000",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777895934757_Furac_o_2000_-_Mimosa_2000.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896029750_image_1777896029750.jpg",
+    "duration": "2:20",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 213,
+    "title": "Jogja Ora Didol",
+    "artist": "Jogja Hiphop Foundation",
+    "album": "Jogja Hiphop Foundation",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896146110_Jogja_Hip_Hop_Foundation_-_Topic_-_Jogja_Ora_Didol.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896232475_image_1777896232475.jpg",
+    "duration": "4:04",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 214,
+    "title": "Song Of Sabdatama",
+    "artist": "Jogja Hiphop Foundation",
+    "album": "Jogja Hiphop Foundation",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896277863_Kill_the_TV_-_Song_of_Sabdatama.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896232475_image_1777896232475.jpg",
+    "duration": "5:22",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 215,
+    "title": "Mentari Durmagati",
+    "artist": "KAJAWI",
+    "album": "KAJAWI",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896408601_KAJAWI_-_Menteri_Durmagati__Live_Studio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896477036_image_1777896477036.jpg",
+    "duration": "4:03",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 216,
+    "title": "Warok Ponorogo",
+    "artist": "KAJAWI",
+    "album": "KAJAWI",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896531063_KAJAWI_-_WAROK_PONOROGO__Official_Lyric_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896541083_image_1777896541083.jpg",
+    "duration": "4:29",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 217,
+    "title": "Kapal Oleng",
+    "artist": "SMLHD",
+    "album": "SMLHD",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896612861_SMLHD_-_KAPAL_OLENG_Ft_Ghelava__Official_Audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896623489_image_1777896623489.jpg",
+    "duration": "4:19",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 218,
+    "title": "Can_t_Help_Falling_In_Love",
+    "artist": "Elvis Presley",
+    "album": "Elvis Presley",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777896760427_Elvis_Presley_-_Can_t_Help_Falling_In_Love__Official_Audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777896819302_image_1777896819302.jpg",
+    "duration": "3:01",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 219,
+    "title": "Take Me Home",
+    "artist": "John Denver",
+    "album": "John Denver",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777897682893_John_Denver_-_Take_Me_Home__Country_Roads__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777897695996_image_1777897695996.jpg",
+    "duration": "3:09",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 220,
+    "title": "Freed Form Desire",
+    "artist": "GALA",
+    "album": "GALA",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777897915778_GALA_-_Freed_from_desire__Official_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777897919055_image_1777897919055.jpg",
+    "duration": "3:34",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 221,
+    "title": "PeligRosa",
+    "artist": "FloyMenor",
+    "album": "FloyMenor",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777898092548_FloyyMenor_-_Peligrosa__Video_Oficial_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777898014558_image_1777898014558.jpg",
+    "duration": "2:17",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 222,
+    "title": "Sesuatu Di Jogja",
+    "artist": "Mitty Zasia",
+    "album": "Mitty Zasia",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1777898360634_Sesuatu_Di_Jogja_-_Cover_by_Mitty_Zaisa___Lirik_Lagu__.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1777898292731_image_1777898292731.jpg",
+    "duration": "4:22",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 223,
+    "title": "That Should Be Me",
+    "artist": "Justin Bieber",
+    "album": "Justin Bieber",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778147546667_p5Jw-T4dVss.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778147577798_image_1778147577797.jpg",
+    "duration": "3:56",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 224,
+    "title": "Brave Love Tiga",
+    "artist": "Ultraman Tiga Ending Song",
+    "album": "Ultraman Tiga Ending Song",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778147887901__Brave_Love__Tiga__Ultraman_Tiga_ending_song_-_lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778147946904_image_1778147946904.jpg",
+    "duration": "3:38",
+    "category": "pop",
+    "popular": true,
+    "syncedLyrics": [
+      {
+        "t": 0,
+        "text": "♪ Intro ~ ULTRAMAN TIGA ~ ♪"
+      },
+      {
+        "t": 14,
+        "text": "TIGA, Yuuki ga"
+      },
+      {
+        "t": 17,
+        "text": "Ima Tarinai"
+      },
+      {
+        "t": 21,
+        "text": "TIGA, Yuuki o"
+      },
+      {
+        "t": 24,
+        "text": "Sazukete Kure"
+      },
+      {
+        "t": 27,
+        "text": "Tatoe Chikara ga Tsuyokute mo"
+      },
+      {
+        "t": 34,
+        "text": "Hitorikiri ja Tatakaenai"
+      },
+      {
+        "t": 40,
+        "text": "Tsuyoku Mirai o Motomete mo"
+      },
+      {
+        "t": 45,
+        "text": "Hitorikiri ja Todokanai"
+      },
+      {
+        "t": 53,
+        "text": "Kanashimi ni oowa Reteru"
+      },
+      {
+        "t": 56,
+        "text": "Kono Sora o Kowasu Yo"
+      },
+      {
+        "t": 60,
+        "text": "S.O.S. Ukete"
+      },
+      {
+        "t": 63,
+        "text": "Kimi no Matsu Ashita E"
+      },
+      {
+        "t": 68,
+        "text": "TIGA, Ai Koso"
+      },
+      {
+        "t": 71,
+        "text": "Ima Hitsuyou"
+      },
+      {
+        "t": 75,
+        "text": "TIGA, Chikyuu o"
+      },
+      {
+        "t": 77,
+        "text": "Mitsumete Kure"
+      },
+      {
+        "t": 81,
+        "text": "♪ Interlude ♪"
+      },
+      {
+        "t": 87,
+        "text": "Donna Kura Yami no Naka Demo"
+      },
+      {
+        "t": 94,
+        "text": "Hoshi wa Dokoka de Kagayaku Yo"
+      },
+      {
+        "t": 100,
+        "text": "Yowaku Hakanai Hoshi Tachi Mo"
+      },
+      {
+        "t": 107,
+        "text": "Yume o Motomete Kagayaku Yo"
+      },
+      {
+        "t": 113,
+        "text": "'Aishiteru, Aishite Iru'"
+      },
+      {
+        "t": 116,
+        "text": "Tamashii ga Sakebu Yo"
+      },
+      {
+        "t": 120,
+        "text": "Toki no GATE Akete"
+      },
+      {
+        "t": 122,
+        "text": "Kimi no Matsu Mirai e"
+      },
+      {
+        "t": 128,
+        "text": "TIGA, Yuuki ga"
+      },
+      {
+        "t": 121,
+        "text": "Ima Tarinai"
+      },
+      {
+        "t": 124,
+        "text": "TIGA, Yuuki o"
+      },
+      {
+        "t": 127,
+        "text": "Sazukete Kure"
+      },
+      {
+        "t": 126,
+        "text": "Kanashimi ni oowa Reteru"
+      },
+      {
+        "t": 130,
+        "text": "Kono Sora o Kowasu Yo"
+      },
+      {
+        "t": 134,
+        "text": "S.O.S. Ukete"
+      },
+      {
+        "t": 137,
+        "text": "Kimi no Matsu Ashita e"
+      },
+      {
+        "t": 143,
+        "text": "TIGA, Ai Koso"
+      },
+      {
+        "t": 146,
+        "text": "Ima Hitsuyou"
+      },
+      {
+        "t": 149,
+        "text": "TIGA, Chikyuu o"
+      },
+      {
+        "t": 152,
+        "text": "Mitsumete Kure"
+      },
+      {
+        "t": 155,
+        "text": "TIGA, Yuuki ga"
+      },
+      {
+        "t": 158,
+        "text": "Ima Tarinai"
+      },
+      {
+        "t": 161,
+        "text": "TIGA, Yuuki o"
+      },
+      {
+        "t": 164,
+        "text": "Sazukete Kure"
+      },
+      {
+        "t": 170,
+        "text": "♪ Tsangkyuu.. ♪"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Opening Ultraman X",
+    "artist": "Ultra Lyric",
+    "album": "Ultra Lyric",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778148179711_Ultra_Lyrics_-_Urutoraman_X__Ultraman_X_Opening__Lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778148604812_image_1778148604812.jpg",
+    "duration": "4:03",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 226,
+    "title": "Opening Ultraman Mebius",
+    "artist": "Ultra Lyric",
+    "album": "Ultra Lyric",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778148778293_RedPowerV_1962_House_of_Randomness_Ultraman_Mebius_Theme_Song.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778148903136_image_1778148903136.jpg",
+    "duration": "4:54",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 227,
+    "title": "Opening Ben 10 Clasic",
+    "artist": "Cartoon Network",
+    "album": "Cartoon Nerwork",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778149503165_Ben_10_-_Season_1-2.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778150120879_image_1778150120879.jpg",
+    "duration": "1:01",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 228,
+    "title": "Dj So Asu",
+    "artist": "NayKilla",
+    "album": "NayKilla",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778149970660_None_DJ_SO_ASU_NAYKILLA_PELUKAN_YANG_HANGAT_MENJADI_BAYANGAN_S.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778150120086_image_1778150120086.jpg",
+    "duration": "5:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 229,
+    "title": "Dj Curi Curi Pandang",
+    "artist": "Maman Fvndy",
+    "album": "Maman Fyndy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1778158529369_Maman_Fvndy_Rmx_-_DJ_KAKA_PU_MANIS_BIKIN_SA_SUKA.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1778158604062_image_1778158604062.jpg",
+    "duration": "3:19",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 230,
+    "title": "Geed No Akashi",
+    "artist": "Ultra Lyric",
+    "album": "Ultra Lyric",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779501856586_Ultra_Lyrics_-_Geed_no_Akashi__Ultraman_Geed_Opening__Lyrics.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779502041407_image_1779502041407.jpg",
+    "duration": "3:34",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 231,
+    "title": "Tabola Bale Mix",
+    "artist": "Feat. Jacson Zeran, Juan Reza & Diva Aurel",
+    "album": "Feat. Jacson Zeran, Juan Reza & Diva Aurel",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779506958749_Tabola_Bale_-_Silet_Open_Up_Ft_Jacson_Zeran.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779507024976_image_1779507024976.jpg",
+    "duration": "4:35",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 232,
+    "title": "Dj Tabola Bale X Calon Mantu Idaman",
+    "artist": "Maman Fvndy",
+    "album": "Maman Fvndy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779507222673_Maman_Fvndy_Rmx_DJ_TABOLA_BALE_X_CALON_MANTU_IDAMAN_SLOW_VIRAL.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779507381164_image_1779507381164.jpg",
+    "duration": "3:14",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 233,
+    "title": "Dj Curi Curi Pandang X Cina Timur",
+    "artist": "Dj vizi Fynk",
+    "album": "Dj vizi Fynk",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779507705574_Dj_vizi_Fvnky_-_DJ_CURI_CURI_PANDANG_X_CINA_TIMUR.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779508039969_image_1779508039969.jpg",
+    "duration": "4:40",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 234,
+    "title": "A Thousand Years",
+    "artist": "Christina Perri",
+    "album": "Christina Perri",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779505777593_Christina_Perri_-_A_Thousand_Years.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779506027537_image_1779506027537.jpg",
+    "duration": "4:46",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 235,
+    "title": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779507176377_Taylor_Swift_-_Cruel_Summer__Official_Audio_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779507376878_image_1779507376878.jpg",
+    "duration": "2:59",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 236,
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779507771697_Taylor_Swift_-_Blank_Space.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779507877272_image_1779507877272.jpg",
+    "duration": "4:32",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 237,
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779508274110_Taylor_Swift_-_Love_Story__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779508408350_image_1779508408350.jpg",
+    "duration": "3:54",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 238,
+    "title": "Back To December",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779508825512_Taylor_Swift_-_Back_To_December__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779509146034_image_1779509146034.jpg",
+    "duration": "4:53",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 239,
+    "title": "Anti Hero (lyrics)",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779509584619_Taylor_Swift_-_Anti-Hero.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779509437342_image_1779509437342.jpg",
+    "duration": "3:21",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 240,
+    "title": "The Fate of Ophelia",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779509975623_Taylor_Swift_-_The_Fate_of_Ophelia.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779510109989_image_1779510109989.jpg",
+    "duration": "3:46",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 241,
+    "title": "Dj Menungso Ora Toto",
+    "artist": "Zein Fynky",
+    "album": "Zein Fynky",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1779512570873_Zein_Fvnky_DJ_MENUNGSO_ORA_TOTO_SLOW_BASS_VIRAL_TIK_TOK_TERBAR.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1779513528078_image_1779513528078.jpg",
+    "duration": "4:17",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 242,
+    "title": "Karna Su Sayang",
+    "artist": "ABIL SKA 86 feet NIKISUKA",
+    "album": "ABIL SKA 86 feet NIKISUKA",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1780658079387_KARNA_SU_SAYANG_-_ABIL_SKA_86_feat_NIKISUKA.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1780658140248_image_1780658140248.jpg",
+    "duration": "4:55",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 243,
+    "title": "DJ KARNA SU SAYANG SLOW TIKTOK FULL SOUND MAMAN FVNDY",
+    "artist": "Maman Fvndy",
+    "album": "Maman Fvndy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1780658317991_Wyqlqo6xXXQ.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1780658471389_image_1780658471389.jpg",
+    "duration": "4:19",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 244,
+    "title": "DJ PIKI PIKI X ZUMIZA X BOOMPA",
+    "artist": "Rian Dtm",
+    "album": "Dj indonesia",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785174488499_Rian_DTM_DJ_PIKI_PIKI_X_ZUMI_ZA_X_BOOM_PA_VIRAL_TERBARU_TIKTOK.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785174332519_image_1785174332519.jpg",
+    "duration": "3:09",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 245,
+    "title": "Pyphone (SpeedUp)",
+    "artist": "Marone 5 X Wizkhalifa",
+    "album": "Marone 5 X Wizkhalifa",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/SuikaUploader/main/Suika/1784634806379_tiktok_audio__4_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/SuikaUploader/main/Suika/1784635019828_0963a0423575a55397bcf44c2e3ce9dd.jpg",
+    "duration": "3:09",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 246,
+    "title": "Dj Boompa",
+    "artist": "Rian Dtm",
+    "album": "Rian Dtm",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785174647586_Rian_DTM_DJ_BOOM_PA_BOOM_PA_THAILAND_STYLE_VIRAL_TIKTOK_2026_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785174683791_image_1785174683791.jpg",
+    "duration": "3:46",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 247,
+    "title": "Dj Wahai Pujangga Cinta",
+    "artist": "Dj Ixia Remix",
+    "album": "Dj Ixia Remix",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785175311478_Dj_lxia_remix_DJ_BIAR_MENJADI_BAIT_DALAM_PUISI_CINTA_TERINDAH_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785175492660_image_1785175492660.jpg",
+    "duration": "5:46",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 248,
+    "title": "Duka x Serana x Jakarta Hari Ini x Disarankan DiBandung x Where We Are x Multo x Tetap Dalam Jiwa",
+    "artist": "Sandii Lx Official",
+    "album": "Lagu Galau",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785269428699_Sandii_Lx_Official_Duka_x_Serana_x_Jakarta_Hari_Ini_x_Disaran.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785269605209_image_1785269605209.jpg",
+    "duration": "4:14",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 249,
+    "title": "Tetap Dalam Jiwa",
+    "artist": "Isyana Sarasvati",
+    "album": "Lagu Galau Percintaan",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785269677418_Isyana_Sarasvati_-_Tetap_Dalam_Jiwa__Video_Clip_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785269830955_image_1785269830955.jpg",
+    "duration": "3:57",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 250,
+    "title": "Strong",
+    "artist": "One Direction",
+    "album": "One Direction",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785269979515_One_Direction_-_Strong__Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785270011141_image_1785270011141.jpg",
+    "duration": "3:05",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 251,
+    "title": "Style",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785271190780_Taylor_Swift_-_Style.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785271282016_image_1785271282016.jpg",
+    "duration": "4:03",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 252,
+    "title": "Last Friday Night (T.G.I.F)",
+    "artist": "Katy Pary",
+    "album": "Katy Pary",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785271394960_Katy_Perry_-_Last_Friday_Night__T.G.I.F___Lyrics_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785271433098_image_1785271433098.jpg",
+    "duration": "3:51",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 253,
+    "title": "Sao Savela (Part. Fintiho Ferari) Mc Bruinho",
+    "artist": "Music FunkBR",
+    "album": "Music FunkBR",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785271628177_Music_FunkBr_Sou_Favela_part_Vitinho_Ferrari_MC_Bruninho.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785271933016_image_1785271933016.jpg",
+    "duration": "3:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 254,
+    "title": "Dj Sau Favela Slow Viral",
+    "artist": "Maman Fvndy Remix",
+    "album": "Maman Fvndy",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785272031331_Maman_Fvndy_Rmx_DJ_SOU_FAVELA_TREND_DANCE_BRAZIL_SLOW_VIRAL_TI.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785272023467_image_1785272023467.jpg",
+    "duration": "4:08",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 255,
+    "title": "Pompeii (Official Music Video)",
+    "artist": "Bastille",
+    "album": "Bastille",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785418218711_Bastille_-_Pompeii__Official_Music_Video_.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785418336729_image_1785418336729.jpg",
+    "duration": "3:53",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 256,
+    "title": "Silhouette",
+    "artist": "Kana Boon",
+    "album": "Lagu Naruto",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785418922888_dlFA0Zq1k2A.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785419010493_image_1785419010493.jpg",
+    "duration": "4:25",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 257,
+    "title": "Blue Bird - Naruto Shippuden",
+    "artist": "ikimono",
+    "album": "Lagu Naruto",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785420155735_0qP9jkdRsYU.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785420389616_image_1785420389616.jpg",
+    "duration": "3:37",
+    "category": "pop",
+    "popular": true
+  },
+  {
+    "id": 258,
+    "title": "Hero's Come Back!! Lyrics (Romaji)",
+    "artist": "Naruto Shippuden OP1",
+    "album": "Lagu Naruto",
+    "src": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/audio/1785444004528_Naruto_Shippuden_OP1_Hero_s_Come_Back___Lyrics_Romaji.mp3",
+    "img": "https://raw.githubusercontent.com/SuikaRyp/Penyimpanan-Lagu/main/images/1785444039337_image_1785444039337.jpg",
+    "duration": "4:34",
+    "category": "pop",
+    "popular": true
+  }
+]

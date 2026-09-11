@@ -1,0 +1,82 @@
+name: Build SuikaPlayer
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+          cache: gradle
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+      - name: Prepare signing keystore
+        run: |
+          if [ -n "${{ secrets.KEYSTORE_BASE64 }}" ]; then
+            echo "Using keystore from repository secrets."
+            echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > keystore.jks
+            cat <<EOF > keystore.properties
+          storeFile=keystore.jks
+          storePassword=${{ secrets.STORE_PASSWORD }}
+          keyAlias=${{ secrets.KEY_ALIAS }}
+          keyPassword=${{ secrets.KEY_PASSWORD }}
+          EOF
+          else
+            echo "::warning::No KEYSTORE_BASE64 secret found - generating a throwaway signing key for this build only."
+            keytool -genkeypair -v \
+              -keystore keystore.jks \
+              -alias suikaplayer \
+              -keyalg RSA -keysize 2048 -validity 10000 \
+              -storepass suikaplayer123 -keypass suikaplayer123 \
+              -dname "CN=SuikaPlayer, OU=SuikaPlayer, O=SuikaPlayer, L=Unknown, S=Unknown, C=ID"
+            cat <<EOF > keystore.properties
+          storeFile=keystore.jks
+          storePassword=suikaplayer123
+          keyAlias=suikaplayer
+          keyPassword=suikaplayer123
+          EOF
+          fi
+
+      - name: Read versionName
+        id: version
+        run: |
+          VERSION=$(grep versionName app/build.gradle.kts | head -1 | sed 's/.*"\(.*\)".*/\1/')
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Make gradlew executable
+        run: chmod +x gradlew
+
+      - name: Build release APK
+        run: ./gradlew assembleRelease --stacktrace
+
+      - name: Upload release APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SuikaPlayer-release-${{ steps.version.outputs.version }}
+          path: app/build/outputs/apk/release/*.apk
+          if-no-files-found: error
+
+      - name: Create Github Release
+        if: github.event_name == 'workflow_dispatch'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: SuikaPlayer ${{ steps.version.outputs.version }}
+          files: app/build/outputs/apk/release/*.apk
